@@ -1,0 +1,38 @@
+body{
+  background-color: #EAF6F6;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d3d3d3;
+  border-width: 7px;
+  width: 5%;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: Segoe Print;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: Segoe UI Symbol;
+}
+
+p{
+  font-family: Segoe UI Symbol;
+}
+
+.profilepic{
+  border-radius: 100%;
+}
+
+li{
+  font-family: Courier New;
+}
